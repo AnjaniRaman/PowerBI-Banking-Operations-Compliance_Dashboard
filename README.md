@@ -61,7 +61,7 @@ Total Records
 - Address change requests recorded the highest average TAT
 - SLA breach rate indicates opportunities for operational improvement
 ## Future Improvements
-_ Live SQL datbase integration
+Live SQL datbase integration
 Incremental refresh
 Automated email reporting
 Real-time KPI monitoring
