@@ -1,0 +1,501 @@
+Request_ID,Customer_ID,Request_Type,Branch,RM_Name,Request_Date,Closure_Date,Status,Escalated
+REQ1,CUST1098,KYC Update,Delhi,RM_E,08-10-2023,14-10-2023 00:00,Closed,No
+REQ2,CUST1102,Document Upload,Bangalore,RM_E,01-01-2023,03-01-2023 00:00,Closed,Yes
+REQ3,CUST1132,KYC Update,Chennai,RM_D,05-06-2023,,Open,No
+REQ4,CUST1102,KYC Update,Chennai,RM_A,27-05-2023,04-06-2023 00:00,Closed,No
+REQ5,CUST1019,Document Upload,Delhi,RM_A,18-04-2023,25-04-2023 00:00,Closed,No
+REQ6,CUST1082,Document Upload,Hyderabad,RM_D,09-08-2023,,Open,No
+REQ7,CUST1279,Address Change,Chennai,RM_C,24-10-2023,01-11-2023 00:00,Closed,No
+REQ8,CUST1129,Address Change,Delhi,RM_B,07-11-2023,12-11-2023 00:00,Closed,No
+REQ9,CUST1089,Address Change,Mumbai,RM_A,02-12-2023,09-12-2023 00:00,Closed,Yes
+REQ10,CUST1213,Address Change,Hyderabad,RM_B,14-06-2023,,Open,No
+REQ11,CUST1143,Address Change,Bangalore,RM_D,27-08-2023,,Open,No
+REQ12,CUST1065,Document Upload,Chennai,RM_C,15-08-2023,24-08-2023 00:00,Closed,No
+REQ13,CUST1076,KYC Update,Delhi,RM_C,15-08-2023,16-08-2023 00:00,Closed,Yes
+REQ14,CUST1199,Address Change,Mumbai,RM_C,12-12-2023,18-12-2023 00:00,Closed,No
+REQ15,CUST1143,Address Change,Bangalore,RM_D,20-04-2023,28-04-2023 00:00,Closed,No
+REQ16,CUST1093,KYC Update,Delhi,RM_E,19-09-2023,20-09-2023 00:00,Closed,No
+REQ17,CUST1224,Address Change,Delhi,RM_E,31-08-2023,09-09-2023 00:00,Closed,No
+REQ18,CUST1291,KYC Update,Bangalore,RM_B,28-03-2023,02-04-2023 00:00,Closed,No
+REQ19,CUST1102,KYC Update,Mumbai,RM_E,04-12-2023,12-12-2023 00:00,Closed,No
+REQ20,CUST1267,Document Upload,Mumbai,RM_E,13-02-2023,23-02-2023 00:00,Closed,No
+REQ21,CUST1110,Account Service,Hyderabad,RM_C,26-05-2023,,Open,No
+REQ22,CUST1265,Document Upload,Chennai,RM_C,21-09-2023,,Open,Yes
+REQ23,CUST1003,Account Service,Bangalore,RM_B,06-12-2023,07-12-2023 00:00,Closed,No
+REQ24,CUST1085,Account Service,Bangalore,RM_A,21-11-2023,23-11-2023 00:00,Closed,No
+REQ25,CUST1282,Account Service,Bangalore,RM_B,14-11-2023,16-11-2023 00:00,Closed,No
+REQ26,CUST1117,Address Change,Mumbai,RM_B,21-06-2023,23-06-2023 00:00,Closed,Yes
+REQ27,CUST1221,Document Upload,Chennai,RM_D,17-02-2023,20-02-2023 00:00,Closed,No
+REQ28,CUST1154,Account Service,Hyderabad,RM_D,01-05-2023,06-05-2023 00:00,Closed,No
+REQ29,CUST1153,KYC Update,Delhi,RM_B,11-12-2023,16-12-2023 00:00,Closed,Yes
+REQ30,CUST1012,Address Change,Delhi,RM_B,08-06-2023,16-06-2023 00:00,Closed,Yes
+REQ31,CUST1133,Document Upload,Bangalore,RM_B,26-04-2023,,Open,Yes
+REQ32,CUST1293,Account Service,Chennai,RM_E,12-04-2023,21-04-2023 00:00,Closed,No
+REQ33,CUST1300,KYC Update,Mumbai,RM_D,17-03-2023,21-03-2023 00:00,Closed,Yes
+REQ34,CUST1228,Document Upload,Chennai,RM_B,13-01-2023,,Open,Yes
+REQ35,CUST1271,Document Upload,Chennai,RM_C,24-01-2023,27-01-2023 00:00,Closed,No
+REQ36,CUST1043,Address Change,Mumbai,RM_C,06-05-2023,,Open,No
+REQ37,CUST1021,Document Upload,Bangalore,RM_E,01-09-2023,08-09-2023 00:00,Closed,Yes
+REQ38,CUST1107,Address Change,Chennai,RM_E,09-11-2023,18-11-2023 00:00,Closed,Yes
+REQ39,CUST1117,Account Service,Delhi,RM_A,07-02-2023,08-02-2023 00:00,Closed,Yes
+REQ40,CUST1124,Address Change,Mumbai,RM_A,22-08-2023,27-08-2023 00:00,Closed,No
+REQ41,CUST1281,KYC Update,Hyderabad,RM_A,01-08-2023,,Open,No
+REQ42,CUST1292,Address Change,Bangalore,RM_E,19-11-2023,27-11-2023 00:00,Closed,Yes
+REQ43,CUST1203,KYC Update,Mumbai,RM_E,22-10-2023,,Open,Yes
+REQ44,CUST1051,Address Change,Hyderabad,RM_E,10-04-2023,18-04-2023 00:00,Closed,No
+REQ45,CUST1271,Document Upload,Hyderabad,RM_C,23-12-2023,01-01-2024 00:00,Closed,No
+REQ46,CUST1277,Account Service,Chennai,RM_E,16-07-2023,,Open,No
+REQ47,CUST1141,KYC Update,Chennai,RM_C,11-09-2023,17-09-2023 00:00,Closed,No
+REQ48,CUST1275,Address Change,Chennai,RM_A,24-07-2023,,Open,No
+REQ49,CUST1290,Address Change,Mumbai,RM_A,05-05-2023,,Open,No
+REQ50,CUST1052,Address Change,Mumbai,RM_A,17-03-2023,24-03-2023 00:00,Closed,No
+REQ51,CUST1027,Document Upload,Bangalore,RM_B,02-12-2023,09-12-2023 00:00,Closed,No
+REQ52,CUST1157,Document Upload,Chennai,RM_B,19-12-2023,27-12-2023 00:00,Closed,No
+REQ53,CUST1239,KYC Update,Hyderabad,RM_D,03-01-2023,,Open,Yes
+REQ54,CUST1156,KYC Update,Delhi,RM_D,24-02-2023,,Open,No
+REQ55,CUST1291,Document Upload,Bangalore,RM_D,06-08-2023,09-08-2023 00:00,Closed,Yes
+REQ56,CUST1136,KYC Update,Mumbai,RM_B,23-04-2023,24-04-2023 00:00,Closed,No
+REQ57,CUST1144,Account Service,Bangalore,RM_B,01-04-2023,11-04-2023 00:00,Closed,No
+REQ58,CUST1106,Account Service,Bangalore,RM_D,23-12-2023,25-12-2023 00:00,Closed,No
+REQ59,CUST1158,Document Upload,Bangalore,RM_D,23-09-2023,,Open,Yes
+REQ60,CUST1146,KYC Update,Bangalore,RM_E,26-08-2023,04-09-2023 00:00,Closed,No
+REQ61,CUST1002,Address Change,Delhi,RM_D,26-01-2023,,Open,No
+REQ62,CUST1077,Account Service,Chennai,RM_E,13-10-2023,16-10-2023 00:00,Closed,No
+REQ63,CUST1132,Document Upload,Hyderabad,RM_C,08-05-2023,11-05-2023 00:00,Closed,No
+REQ64,CUST1090,KYC Update,Bangalore,RM_B,04-03-2023,09-03-2023 00:00,Closed,No
+REQ65,CUST1263,Document Upload,Bangalore,RM_D,22-08-2023,29-08-2023 00:00,Closed,No
+REQ66,CUST1108,Address Change,Bangalore,RM_B,10-03-2023,16-03-2023 00:00,Closed,No
+REQ67,CUST1074,Account Service,Chennai,RM_B,26-08-2023,,Open,No
+REQ68,CUST1039,Document Upload,Mumbai,RM_B,08-12-2023,,Open,Yes
+REQ69,CUST1159,Document Upload,Mumbai,RM_C,29-09-2023,05-10-2023 00:00,Closed,No
+REQ70,CUST1071,Document Upload,Delhi,RM_A,14-10-2023,22-10-2023 00:00,Closed,No
+REQ71,CUST1241,Address Change,Mumbai,RM_D,01-11-2023,,Open,No
+REQ72,CUST1298,Document Upload,Bangalore,RM_A,12-06-2023,14-06-2023 00:00,Closed,No
+REQ73,CUST1036,Address Change,Bangalore,RM_A,15-08-2023,20-08-2023 00:00,Closed,No
+REQ74,CUST1084,Address Change,Bangalore,RM_A,10-11-2023,,Open,No
+REQ75,CUST1263,Address Change,Delhi,RM_B,16-09-2023,,Open,No
+REQ76,CUST1172,Account Service,Bangalore,RM_E,07-08-2023,09-08-2023 00:00,Closed,No
+REQ77,CUST1173,Account Service,Mumbai,RM_B,08-10-2023,,Open,No
+REQ78,CUST1047,Document Upload,Chennai,RM_B,17-08-2023,,Open,No
+REQ79,CUST1141,Document Upload,Chennai,RM_A,23-03-2023,26-03-2023 00:00,Closed,No
+REQ80,CUST1118,Account Service,Hyderabad,RM_B,01-09-2023,02-09-2023 00:00,Closed,Yes
+REQ81,CUST1277,KYC Update,Mumbai,RM_A,19-08-2023,20-08-2023 00:00,Closed,No
+REQ82,CUST1214,Account Service,Bangalore,RM_E,13-05-2023,19-05-2023 00:00,Closed,No
+REQ83,CUST1220,Address Change,Chennai,RM_D,07-05-2023,11-05-2023 00:00,Closed,No
+REQ84,CUST1026,Account Service,Mumbai,RM_A,23-11-2023,03-12-2023 00:00,Closed,No
+REQ85,CUST1009,Address Change,Chennai,RM_E,22-05-2023,25-05-2023 00:00,Closed,No
+REQ86,CUST1271,Document Upload,Bangalore,RM_D,24-09-2023,26-09-2023 00:00,Closed,No
+REQ87,CUST1010,KYC Update,Chennai,RM_C,06-09-2023,13-09-2023 00:00,Closed,Yes
+REQ88,CUST1121,Document Upload,Hyderabad,RM_A,17-11-2023,21-11-2023 00:00,Closed,Yes
+REQ89,CUST1125,Address Change,Hyderabad,RM_A,03-05-2023,13-05-2023 00:00,Closed,Yes
+REQ90,CUST1170,Address Change,Chennai,RM_C,21-05-2023,29-05-2023 00:00,Closed,No
+REQ91,CUST1072,Address Change,Mumbai,RM_C,14-08-2023,22-08-2023 00:00,Closed,Yes
+REQ92,CUST1152,KYC Update,Mumbai,RM_A,09-02-2023,10-02-2023 00:00,Closed,No
+REQ93,CUST1208,Account Service,Mumbai,RM_C,27-05-2023,,Open,No
+REQ94,CUST1049,Document Upload,Chennai,RM_B,01-05-2023,06-05-2023 00:00,Closed,No
+REQ95,CUST1154,Document Upload,Mumbai,RM_D,20-05-2023,23-05-2023 00:00,Closed,No
+REQ96,CUST1293,Account Service,Bangalore,RM_D,21-06-2023,27-06-2023 00:00,Closed,No
+REQ97,CUST1068,Document Upload,Hyderabad,RM_D,13-06-2023,,Open,No
+REQ98,CUST1050,KYC Update,Bangalore,RM_B,04-10-2023,11-10-2023 00:00,Closed,No
+REQ99,CUST1152,Document Upload,Mumbai,RM_C,11-02-2023,19-02-2023 00:00,Closed,Yes
+REQ100,CUST1019,Address Change,Bangalore,RM_E,12-03-2023,,Open,No
+REQ101,CUST1100,Account Service,Mumbai,RM_C,19-03-2023,26-03-2023 00:00,Closed,No
+REQ102,CUST1060,KYC Update,Chennai,RM_A,29-04-2023,,Open,Yes
+REQ103,CUST1167,Account Service,Bangalore,RM_D,16-07-2023,23-07-2023 00:00,Closed,No
+REQ104,CUST1202,KYC Update,Chennai,RM_C,22-12-2023,01-01-2024 00:00,Closed,No
+REQ105,CUST1146,Address Change,Chennai,RM_E,20-03-2023,25-03-2023 00:00,Closed,No
+REQ106,CUST1164,Account Service,Delhi,RM_A,28-12-2023,04-01-2024 00:00,Closed,No
+REQ107,CUST1242,Document Upload,Mumbai,RM_B,20-04-2023,30-04-2023 00:00,Closed,No
+REQ108,CUST1069,KYC Update,Hyderabad,RM_B,02-02-2023,,Open,Yes
+REQ109,CUST1175,Account Service,Mumbai,RM_E,01-08-2023,,Open,No
+REQ110,CUST1049,Document Upload,Hyderabad,RM_A,28-07-2023,,Open,No
+REQ111,CUST1108,Account Service,Mumbai,RM_D,19-06-2023,,Open,No
+REQ112,CUST1226,Account Service,Chennai,RM_C,05-10-2023,,Open,No
+REQ113,CUST1161,Account Service,Bangalore,RM_A,27-08-2023,,Open,No
+REQ114,CUST1119,KYC Update,Bangalore,RM_B,01-08-2023,,Open,No
+REQ115,CUST1149,Document Upload,Delhi,RM_E,01-02-2023,,Open,No
+REQ116,CUST1150,Address Change,Hyderabad,RM_E,16-04-2023,22-04-2023 00:00,Closed,Yes
+REQ117,CUST1293,KYC Update,Hyderabad,RM_C,04-08-2023,08-08-2023 00:00,Closed,No
+REQ118,CUST1143,KYC Update,Hyderabad,RM_E,19-07-2023,22-07-2023 00:00,Closed,No
+REQ119,CUST1160,KYC Update,Chennai,RM_E,27-10-2023,28-10-2023 00:00,Closed,Yes
+REQ120,CUST1011,Address Change,Hyderabad,RM_A,23-12-2023,31-12-2023 00:00,Closed,No
+REQ121,CUST1138,Document Upload,Bangalore,RM_D,11-01-2023,17-01-2023 00:00,Closed,No
+REQ122,CUST1078,Document Upload,Chennai,RM_C,22-10-2023,,Open,No
+REQ123,CUST1077,Document Upload,Mumbai,RM_A,14-07-2023,19-07-2023 00:00,Closed,Yes
+REQ124,CUST1254,Account Service,Hyderabad,RM_D,02-09-2023,09-09-2023 00:00,Closed,No
+REQ125,CUST1258,Account Service,Hyderabad,RM_A,04-01-2023,07-01-2023 00:00,Closed,No
+REQ126,CUST1291,Account Service,Mumbai,RM_A,30-06-2023,,Open,No
+REQ127,CUST1263,Address Change,Hyderabad,RM_E,02-06-2023,,Open,Yes
+REQ128,CUST1085,Account Service,Mumbai,RM_D,19-07-2023,28-07-2023 00:00,Closed,No
+REQ129,CUST1146,Address Change,Chennai,RM_C,03-08-2023,,Open,No
+REQ130,CUST1042,Document Upload,Bangalore,RM_C,03-10-2023,,Open,No
+REQ131,CUST1125,Account Service,Mumbai,RM_D,07-10-2023,15-10-2023 00:00,Closed,No
+REQ132,CUST1167,Account Service,Delhi,RM_E,05-11-2023,,Open,No
+REQ133,CUST1241,KYC Update,Mumbai,RM_B,23-04-2023,29-04-2023 00:00,Closed,No
+REQ134,CUST1280,Address Change,Hyderabad,RM_A,07-09-2023,,Open,Yes
+REQ135,CUST1188,Document Upload,Chennai,RM_E,23-04-2023,25-04-2023 00:00,Closed,No
+REQ136,CUST1019,KYC Update,Chennai,RM_D,20-05-2023,24-05-2023 00:00,Closed,Yes
+REQ137,CUST1068,KYC Update,Mumbai,RM_A,12-08-2023,,Open,No
+REQ138,CUST1218,Document Upload,Bangalore,RM_C,06-09-2023,,Open,Yes
+REQ139,CUST1102,KYC Update,Delhi,RM_B,15-01-2023,,Open,No
+REQ140,CUST1042,Address Change,Chennai,RM_C,19-07-2023,,Open,No
+REQ141,CUST1288,Address Change,Hyderabad,RM_D,22-06-2023,,Open,No
+REQ142,CUST1167,Account Service,Hyderabad,RM_A,09-12-2023,16-12-2023 00:00,Closed,Yes
+REQ143,CUST1109,KYC Update,Bangalore,RM_D,14-12-2023,23-12-2023 00:00,Closed,No
+REQ144,CUST1036,Account Service,Chennai,RM_A,27-07-2023,02-08-2023 00:00,Closed,No
+REQ145,CUST1232,KYC Update,Mumbai,RM_E,26-03-2023,31-03-2023 00:00,Closed,No
+REQ146,CUST1229,Address Change,Hyderabad,RM_B,28-08-2023,03-09-2023 00:00,Closed,No
+REQ147,CUST1164,Address Change,Bangalore,RM_E,07-03-2023,11-03-2023 00:00,Closed,No
+REQ148,CUST1073,Address Change,Chennai,RM_E,15-11-2023,25-11-2023 00:00,Closed,No
+REQ149,CUST1136,KYC Update,Chennai,RM_D,01-10-2023,,Open,No
+REQ150,CUST1070,Address Change,Chennai,RM_B,14-01-2023,24-01-2023 00:00,Closed,No
+REQ151,CUST1196,KYC Update,Chennai,RM_A,21-07-2023,23-07-2023 00:00,Closed,No
+REQ152,CUST1269,Account Service,Chennai,RM_A,31-10-2023,08-11-2023 00:00,Closed,No
+REQ153,CUST1049,KYC Update,Hyderabad,RM_C,16-10-2023,,Open,Yes
+REQ154,CUST1130,Account Service,Bangalore,RM_A,06-12-2023,13-12-2023 00:00,Closed,Yes
+REQ155,CUST1005,KYC Update,Chennai,RM_D,14-01-2023,15-01-2023 00:00,Closed,Yes
+REQ156,CUST1027,Account Service,Delhi,RM_E,12-02-2023,,Open,No
+REQ157,CUST1160,Address Change,Delhi,RM_E,26-11-2023,04-12-2023 00:00,Closed,No
+REQ158,CUST1149,Account Service,Bangalore,RM_E,08-08-2023,12-08-2023 00:00,Closed,No
+REQ159,CUST1264,Address Change,Mumbai,RM_B,11-03-2023,,Open,No
+REQ160,CUST1230,Address Change,Mumbai,RM_A,25-08-2023,02-09-2023 00:00,Closed,Yes
+REQ161,CUST1200,Account Service,Mumbai,RM_D,04-04-2023,13-04-2023 00:00,Closed,No
+REQ162,CUST1050,KYC Update,Delhi,RM_B,26-01-2023,29-01-2023 00:00,Closed,No
+REQ163,CUST1067,KYC Update,Mumbai,RM_C,14-05-2023,,Open,No
+REQ164,CUST1300,Document Upload,Hyderabad,RM_D,14-07-2023,22-07-2023 00:00,Closed,Yes
+REQ165,CUST1058,KYC Update,Chennai,RM_D,17-06-2023,22-06-2023 00:00,Closed,No
+REQ166,CUST1259,Document Upload,Delhi,RM_D,19-04-2023,25-04-2023 00:00,Closed,No
+REQ167,CUST1130,KYC Update,Bangalore,RM_E,21-08-2023,29-08-2023 00:00,Closed,No
+REQ168,CUST1215,KYC Update,Bangalore,RM_D,17-06-2023,,Open,No
+REQ169,CUST1172,Address Change,Chennai,RM_A,22-06-2023,,Open,No
+REQ170,CUST1258,Document Upload,Delhi,RM_D,14-07-2023,20-07-2023 00:00,Closed,No
+REQ171,CUST1102,KYC Update,Mumbai,RM_E,23-05-2023,29-05-2023 00:00,Closed,No
+REQ172,CUST1209,Document Upload,Mumbai,RM_D,04-08-2023,09-08-2023 00:00,Closed,No
+REQ173,CUST1291,Address Change,Hyderabad,RM_C,10-05-2023,12-05-2023 00:00,Closed,No
+REQ174,CUST1286,Address Change,Hyderabad,RM_C,11-02-2023,,Open,No
+REQ175,CUST1116,Document Upload,Mumbai,RM_E,29-08-2023,,Open,No
+REQ176,CUST1264,Address Change,Bangalore,RM_A,10-01-2023,14-01-2023 00:00,Closed,No
+REQ177,CUST1150,Account Service,Bangalore,RM_A,04-10-2023,14-10-2023 00:00,Closed,No
+REQ178,CUST1300,Account Service,Hyderabad,RM_B,27-01-2023,,Open,No
+REQ179,CUST1036,Address Change,Chennai,RM_E,29-06-2023,05-07-2023 00:00,Closed,No
+REQ180,CUST1287,Account Service,Mumbai,RM_D,25-04-2023,28-04-2023 00:00,Closed,Yes
+REQ181,CUST1208,KYC Update,Hyderabad,RM_E,29-11-2023,,Open,No
+REQ182,CUST1106,Document Upload,Hyderabad,RM_B,05-02-2023,14-02-2023 00:00,Closed,No
+REQ183,CUST1158,KYC Update,Mumbai,RM_E,30-11-2023,04-12-2023 00:00,Closed,No
+REQ184,CUST1121,Document Upload,Mumbai,RM_E,21-01-2023,,Open,No
+REQ185,CUST1055,Address Change,Bangalore,RM_B,16-01-2023,19-01-2023 00:00,Closed,No
+REQ186,CUST1012,KYC Update,Chennai,RM_A,07-05-2023,,Open,No
+REQ187,CUST1145,Address Change,Chennai,RM_D,13-04-2023,18-04-2023 00:00,Closed,No
+REQ188,CUST1136,Address Change,Mumbai,RM_B,11-01-2023,,Open,No
+REQ189,CUST1003,Document Upload,Delhi,RM_C,15-11-2023,18-11-2023 00:00,Closed,No
+REQ190,CUST1144,Document Upload,Hyderabad,RM_A,20-03-2023,23-03-2023 00:00,Closed,No
+REQ191,CUST1030,Document Upload,Hyderabad,RM_C,03-05-2023,04-05-2023 00:00,Closed,No
+REQ192,CUST1237,KYC Update,Mumbai,RM_A,06-03-2023,12-03-2023 00:00,Closed,No
+REQ193,CUST1279,Account Service,Delhi,RM_D,31-08-2023,,Open,No
+REQ194,CUST1115,Document Upload,Bangalore,RM_D,09-12-2023,15-12-2023 00:00,Closed,Yes
+REQ195,CUST1104,Document Upload,Mumbai,RM_E,28-02-2023,05-03-2023 00:00,Closed,No
+REQ196,CUST1118,KYC Update,Mumbai,RM_C,16-10-2023,23-10-2023 00:00,Closed,Yes
+REQ197,CUST1005,Document Upload,Hyderabad,RM_A,22-04-2023,24-04-2023 00:00,Closed,No
+REQ198,CUST1248,KYC Update,Mumbai,RM_D,27-08-2023,02-09-2023 00:00,Closed,Yes
+REQ199,CUST1121,Address Change,Mumbai,RM_B,25-12-2023,27-12-2023 00:00,Closed,Yes
+REQ200,CUST1286,Document Upload,Mumbai,RM_D,12-05-2023,16-05-2023 00:00,Closed,No
+REQ201,CUST1149,Document Upload,Hyderabad,RM_B,08-07-2023,,Open,No
+REQ202,CUST1084,Address Change,Bangalore,RM_A,27-03-2023,05-04-2023 00:00,Closed,No
+REQ203,CUST1231,Address Change,Bangalore,RM_D,07-11-2023,08-11-2023 00:00,Closed,No
+REQ204,CUST1288,Address Change,Mumbai,RM_D,07-11-2023,15-11-2023 00:00,Closed,No
+REQ205,CUST1161,Document Upload,Hyderabad,RM_A,28-02-2023,,Open,No
+REQ206,CUST1272,Account Service,Bangalore,RM_D,25-03-2023,27-03-2023 00:00,Closed,No
+REQ207,CUST1038,Account Service,Bangalore,RM_B,09-06-2023,17-06-2023 00:00,Closed,No
+REQ208,CUST1226,Account Service,Bangalore,RM_D,25-02-2023,27-02-2023 00:00,Closed,No
+REQ209,CUST1142,Document Upload,Hyderabad,RM_C,24-10-2023,27-10-2023 00:00,Closed,No
+REQ210,CUST1292,Address Change,Hyderabad,RM_E,14-01-2023,19-01-2023 00:00,Closed,No
+REQ211,CUST1151,Document Upload,Mumbai,RM_B,09-06-2023,19-06-2023 00:00,Closed,No
+REQ212,CUST1114,Address Change,Chennai,RM_C,22-10-2023,28-10-2023 00:00,Closed,No
+REQ213,CUST1237,Document Upload,Bangalore,RM_A,13-12-2023,23-12-2023 00:00,Closed,No
+REQ214,CUST1066,Document Upload,Chennai,RM_B,12-07-2023,20-07-2023 00:00,Closed,No
+REQ215,CUST1258,Address Change,Hyderabad,RM_E,23-07-2023,30-07-2023 00:00,Closed,No
+REQ216,CUST1249,Account Service,Hyderabad,RM_E,12-04-2023,14-04-2023 00:00,Closed,No
+REQ217,CUST1180,Address Change,Hyderabad,RM_A,08-02-2023,,Open,No
+REQ218,CUST1190,KYC Update,Chennai,RM_A,31-10-2023,09-11-2023 00:00,Closed,No
+REQ219,CUST1154,KYC Update,Hyderabad,RM_B,20-12-2023,,Open,No
+REQ220,CUST1196,Address Change,Mumbai,RM_D,18-11-2023,26-11-2023 00:00,Closed,No
+REQ221,CUST1262,Document Upload,Hyderabad,RM_A,05-05-2023,,Open,No
+REQ222,CUST1143,KYC Update,Delhi,RM_D,22-02-2023,02-03-2023 00:00,Closed,No
+REQ223,CUST1101,KYC Update,Chennai,RM_C,23-12-2023,25-12-2023 00:00,Closed,No
+REQ224,CUST1244,Document Upload,Delhi,RM_E,04-06-2023,10-06-2023 00:00,Closed,No
+REQ225,CUST1012,Document Upload,Hyderabad,RM_D,17-12-2023,23-12-2023 00:00,Closed,No
+REQ226,CUST1239,Account Service,Mumbai,RM_E,04-11-2023,,Open,Yes
+REQ227,CUST1049,Document Upload,Bangalore,RM_D,03-03-2023,11-03-2023 00:00,Closed,No
+REQ228,CUST1042,Address Change,Hyderabad,RM_C,17-10-2023,19-10-2023 00:00,Closed,No
+REQ229,CUST1166,Address Change,Mumbai,RM_A,22-01-2023,24-01-2023 00:00,Closed,No
+REQ230,CUST1082,Account Service,Chennai,RM_C,27-06-2023,,Open,No
+REQ231,CUST1291,KYC Update,Delhi,RM_A,30-09-2023,03-10-2023 00:00,Closed,No
+REQ232,CUST1158,KYC Update,Delhi,RM_A,08-08-2023,18-08-2023 00:00,Closed,No
+REQ233,CUST1216,Document Upload,Delhi,RM_E,05-12-2023,,Open,No
+REQ234,CUST1158,Address Change,Chennai,RM_C,09-07-2023,11-07-2023 00:00,Closed,Yes
+REQ235,CUST1134,KYC Update,Mumbai,RM_D,05-02-2023,12-02-2023 00:00,Closed,No
+REQ236,CUST1067,Account Service,Chennai,RM_C,17-09-2023,,Open,No
+REQ237,CUST1007,Account Service,Delhi,RM_E,28-11-2023,,Open,No
+REQ238,CUST1014,Address Change,Hyderabad,RM_A,24-06-2023,,Open,No
+REQ239,CUST1073,Account Service,Bangalore,RM_E,07-01-2023,13-01-2023 00:00,Closed,No
+REQ240,CUST1163,Account Service,Chennai,RM_B,04-08-2023,13-08-2023 00:00,Closed,No
+REQ241,CUST1066,Address Change,Chennai,RM_B,08-09-2023,16-09-2023 00:00,Closed,No
+REQ242,CUST1130,Document Upload,Mumbai,RM_D,24-02-2023,26-02-2023 00:00,Closed,No
+REQ243,CUST1206,Document Upload,Mumbai,RM_E,10-08-2023,19-08-2023 00:00,Closed,No
+REQ244,CUST1276,Account Service,Chennai,RM_D,05-07-2023,10-07-2023 00:00,Closed,Yes
+REQ245,CUST1256,Document Upload,Delhi,RM_D,22-11-2023,29-11-2023 00:00,Closed,No
+REQ246,CUST1266,Document Upload,Bangalore,RM_B,24-08-2023,,Open,No
+REQ247,CUST1025,Account Service,Mumbai,RM_D,29-12-2023,,Open,No
+REQ248,CUST1281,Document Upload,Delhi,RM_B,20-03-2023,,Open,Yes
+REQ249,CUST1253,Account Service,Hyderabad,RM_A,11-08-2023,20-08-2023 00:00,Closed,No
+REQ250,CUST1289,KYC Update,Mumbai,RM_E,01-04-2023,06-04-2023 00:00,Closed,No
+REQ251,CUST1164,Address Change,Delhi,RM_D,25-09-2023,30-09-2023 00:00,Closed,Yes
+REQ252,CUST1095,Address Change,Delhi,RM_B,30-11-2023,,Open,No
+REQ253,CUST1270,Document Upload,Bangalore,RM_C,19-05-2023,25-05-2023 00:00,Closed,No
+REQ254,CUST1110,Document Upload,Bangalore,RM_D,12-11-2023,15-11-2023 00:00,Closed,No
+REQ255,CUST1238,Document Upload,Hyderabad,RM_A,03-10-2023,,Open,No
+REQ256,CUST1025,Address Change,Delhi,RM_A,05-09-2023,12-09-2023 00:00,Closed,No
+REQ257,CUST1141,KYC Update,Delhi,RM_C,27-08-2023,28-08-2023 00:00,Closed,No
+REQ258,CUST1117,KYC Update,Bangalore,RM_B,12-08-2023,21-08-2023 00:00,Closed,No
+REQ259,CUST1025,Address Change,Mumbai,RM_D,31-10-2023,07-11-2023 00:00,Closed,No
+REQ260,CUST1079,KYC Update,Mumbai,RM_B,18-05-2023,21-05-2023 00:00,Closed,Yes
+REQ261,CUST1068,Address Change,Chennai,RM_A,15-06-2023,21-06-2023 00:00,Closed,No
+REQ262,CUST1173,KYC Update,Bangalore,RM_B,06-05-2023,,Open,No
+REQ263,CUST1012,Account Service,Chennai,RM_A,14-02-2023,16-02-2023 00:00,Closed,No
+REQ264,CUST1288,Account Service,Bangalore,RM_B,23-05-2023,,Open,No
+REQ265,CUST1128,Address Change,Hyderabad,RM_C,19-08-2023,29-08-2023 00:00,Closed,No
+REQ266,CUST1096,KYC Update,Delhi,RM_E,05-05-2023,07-05-2023 00:00,Closed,Yes
+REQ267,CUST1092,Document Upload,Hyderabad,RM_C,26-08-2023,02-09-2023 00:00,Closed,No
+REQ268,CUST1141,KYC Update,Bangalore,RM_C,19-10-2023,27-10-2023 00:00,Closed,No
+REQ269,CUST1031,Account Service,Delhi,RM_E,09-11-2023,13-11-2023 00:00,Closed,No
+REQ270,CUST1020,Account Service,Mumbai,RM_E,09-12-2023,,Open,No
+REQ271,CUST1146,KYC Update,Mumbai,RM_D,14-07-2023,21-07-2023 00:00,Closed,No
+REQ272,CUST1160,KYC Update,Chennai,RM_D,22-06-2023,02-07-2023 00:00,Closed,No
+REQ273,CUST1043,Document Upload,Bangalore,RM_C,15-01-2023,20-01-2023 00:00,Closed,No
+REQ274,CUST1254,Document Upload,Bangalore,RM_C,11-09-2023,18-09-2023 00:00,Closed,No
+REQ275,CUST1130,KYC Update,Mumbai,RM_A,16-06-2023,,Open,No
+REQ276,CUST1060,KYC Update,Hyderabad,RM_A,04-04-2023,08-04-2023 00:00,Closed,No
+REQ277,CUST1151,KYC Update,Delhi,RM_D,07-09-2023,11-09-2023 00:00,Closed,No
+REQ278,CUST1287,KYC Update,Hyderabad,RM_D,19-04-2023,,Open,Yes
+REQ279,CUST1005,Address Change,Hyderabad,RM_A,01-07-2023,,Open,No
+REQ280,CUST1266,KYC Update,Mumbai,RM_A,13-05-2023,15-05-2023 00:00,Closed,No
+REQ281,CUST1130,Document Upload,Mumbai,RM_B,24-06-2023,01-07-2023 00:00,Closed,No
+REQ282,CUST1267,Account Service,Mumbai,RM_B,24-05-2023,31-05-2023 00:00,Closed,No
+REQ283,CUST1178,Address Change,Chennai,RM_A,02-11-2023,06-11-2023 00:00,Closed,No
+REQ284,CUST1253,KYC Update,Hyderabad,RM_B,26-12-2023,01-01-2024 00:00,Closed,No
+REQ285,CUST1056,Account Service,Bangalore,RM_E,22-05-2023,23-05-2023 00:00,Closed,No
+REQ286,CUST1083,Address Change,Delhi,RM_D,12-10-2023,20-10-2023 00:00,Closed,No
+REQ287,CUST1099,Account Service,Chennai,RM_D,06-01-2023,,Open,Yes
+REQ288,CUST1149,KYC Update,Bangalore,RM_A,22-09-2023,,Open,No
+REQ289,CUST1156,KYC Update,Hyderabad,RM_C,08-04-2023,18-04-2023 00:00,Closed,No
+REQ290,CUST1190,Document Upload,Mumbai,RM_A,13-02-2023,20-02-2023 00:00,Closed,No
+REQ291,CUST1263,KYC Update,Hyderabad,RM_B,04-05-2023,11-05-2023 00:00,Closed,No
+REQ292,CUST1080,KYC Update,Delhi,RM_C,28-07-2023,03-08-2023 00:00,Closed,No
+REQ293,CUST1252,Address Change,Chennai,RM_B,08-09-2023,18-09-2023 00:00,Closed,No
+REQ294,CUST1097,Document Upload,Chennai,RM_E,12-10-2023,18-10-2023 00:00,Closed,No
+REQ295,CUST1260,Address Change,Delhi,RM_B,04-05-2023,06-05-2023 00:00,Closed,No
+REQ296,CUST1260,Account Service,Bangalore,RM_E,20-12-2023,30-12-2023 00:00,Closed,No
+REQ297,CUST1103,KYC Update,Bangalore,RM_E,01-09-2023,03-09-2023 00:00,Closed,No
+REQ298,CUST1040,Account Service,Chennai,RM_B,27-11-2023,02-12-2023 00:00,Closed,No
+REQ299,CUST1273,Address Change,Chennai,RM_B,31-12-2023,,Open,No
+REQ300,CUST1101,KYC Update,Mumbai,RM_E,09-09-2023,12-09-2023 00:00,Closed,No
+REQ301,CUST1221,KYC Update,Bangalore,RM_C,18-08-2023,20-08-2023 00:00,Closed,No
+REQ302,CUST1124,Address Change,Delhi,RM_E,09-01-2023,13-01-2023 00:00,Closed,No
+REQ303,CUST1231,Address Change,Bangalore,RM_D,17-02-2023,,Open,No
+REQ304,CUST1178,Address Change,Mumbai,RM_E,31-05-2023,03-06-2023 00:00,Closed,No
+REQ305,CUST1063,Address Change,Chennai,RM_C,24-04-2023,27-04-2023 00:00,Closed,Yes
+REQ306,CUST1116,Address Change,Chennai,RM_D,27-07-2023,30-07-2023 00:00,Closed,No
+REQ307,CUST1191,KYC Update,Mumbai,RM_A,21-12-2023,23-12-2023 00:00,Closed,No
+REQ308,CUST1062,Address Change,Delhi,RM_A,05-05-2023,13-05-2023 00:00,Closed,Yes
+REQ309,CUST1256,KYC Update,Chennai,RM_C,06-06-2023,16-06-2023 00:00,Closed,No
+REQ310,CUST1007,KYC Update,Hyderabad,RM_E,06-12-2023,,Open,No
+REQ311,CUST1155,Address Change,Chennai,RM_B,25-10-2023,04-11-2023 00:00,Closed,Yes
+REQ312,CUST1092,Address Change,Hyderabad,RM_C,08-07-2023,18-07-2023 00:00,Closed,No
+REQ313,CUST1014,Document Upload,Mumbai,RM_D,31-08-2023,06-09-2023 00:00,Closed,No
+REQ314,CUST1229,KYC Update,Mumbai,RM_D,11-10-2023,13-10-2023 00:00,Closed,No
+REQ315,CUST1086,Address Change,Chennai,RM_A,29-09-2023,04-10-2023 00:00,Closed,No
+REQ316,CUST1133,Address Change,Bangalore,RM_D,26-06-2023,,Open,No
+REQ317,CUST1183,Address Change,Hyderabad,RM_C,06-08-2023,12-08-2023 00:00,Closed,No
+REQ318,CUST1062,Document Upload,Delhi,RM_D,09-10-2023,14-10-2023 00:00,Closed,No
+REQ319,CUST1219,Document Upload,Chennai,RM_C,19-06-2023,20-06-2023 00:00,Closed,No
+REQ320,CUST1246,Account Service,Delhi,RM_B,30-06-2023,05-07-2023 00:00,Closed,No
+REQ321,CUST1230,KYC Update,Chennai,RM_A,26-12-2023,28-12-2023 00:00,Closed,No
+REQ322,CUST1079,Account Service,Bangalore,RM_D,21-08-2023,30-08-2023 00:00,Closed,No
+REQ323,CUST1149,Address Change,Bangalore,RM_C,19-05-2023,29-05-2023 00:00,Closed,No
+REQ324,CUST1138,Document Upload,Bangalore,RM_E,06-06-2023,07-06-2023 00:00,Closed,No
+REQ325,CUST1065,Document Upload,Bangalore,RM_A,09-05-2023,19-05-2023 00:00,Closed,No
+REQ326,CUST1013,Account Service,Mumbai,RM_B,29-04-2023,05-05-2023 00:00,Closed,No
+REQ327,CUST1213,Document Upload,Mumbai,RM_C,03-03-2023,12-03-2023 00:00,Closed,No
+REQ328,CUST1242,Address Change,Hyderabad,RM_B,09-04-2023,10-04-2023 00:00,Closed,Yes
+REQ329,CUST1213,Document Upload,Delhi,RM_B,11-06-2023,17-06-2023 00:00,Closed,No
+REQ330,CUST1181,Account Service,Chennai,RM_D,03-03-2023,,Open,No
+REQ331,CUST1173,Address Change,Chennai,RM_D,02-10-2023,05-10-2023 00:00,Closed,No
+REQ332,CUST1160,Account Service,Mumbai,RM_C,20-12-2023,28-12-2023 00:00,Closed,No
+REQ333,CUST1164,Document Upload,Chennai,RM_E,05-04-2023,,Open,No
+REQ334,CUST1188,Account Service,Mumbai,RM_C,09-04-2023,19-04-2023 00:00,Closed,No
+REQ335,CUST1191,Account Service,Hyderabad,RM_E,21-04-2023,27-04-2023 00:00,Closed,No
+REQ336,CUST1256,KYC Update,Delhi,RM_B,05-09-2023,,Open,Yes
+REQ337,CUST1183,Document Upload,Hyderabad,RM_A,22-05-2023,28-05-2023 00:00,Closed,No
+REQ338,CUST1117,Document Upload,Bangalore,RM_C,29-10-2023,30-10-2023 00:00,Closed,No
+REQ339,CUST1282,Account Service,Bangalore,RM_C,26-09-2023,,Open,No
+REQ340,CUST1196,KYC Update,Bangalore,RM_E,02-11-2023,04-11-2023 00:00,Closed,No
+REQ341,CUST1034,Document Upload,Hyderabad,RM_B,25-05-2023,03-06-2023 00:00,Closed,No
+REQ342,CUST1052,Address Change,Chennai,RM_B,21-02-2023,26-02-2023 00:00,Closed,No
+REQ343,CUST1112,Account Service,Delhi,RM_E,10-04-2023,20-04-2023 00:00,Closed,No
+REQ344,CUST1252,Document Upload,Bangalore,RM_B,01-06-2023,,Open,No
+REQ345,CUST1082,Address Change,Bangalore,RM_D,27-04-2023,07-05-2023 00:00,Closed,No
+REQ346,CUST1232,Document Upload,Bangalore,RM_A,04-07-2023,10-07-2023 00:00,Closed,No
+REQ347,CUST1227,Address Change,Delhi,RM_C,02-04-2023,09-04-2023 00:00,Closed,No
+REQ348,CUST1233,Account Service,Bangalore,RM_A,04-06-2023,06-06-2023 00:00,Closed,No
+REQ349,CUST1221,Document Upload,Delhi,RM_C,08-01-2023,15-01-2023 00:00,Closed,No
+REQ350,CUST1042,Document Upload,Bangalore,RM_D,29-12-2023,04-01-2024 00:00,Closed,No
+REQ351,CUST1021,KYC Update,Hyderabad,RM_B,01-10-2023,,Open,No
+REQ352,CUST1042,Account Service,Hyderabad,RM_E,06-03-2023,15-03-2023 00:00,Closed,No
+REQ353,CUST1113,Address Change,Delhi,RM_D,21-05-2023,28-05-2023 00:00,Closed,No
+REQ354,CUST1105,Document Upload,Hyderabad,RM_A,24-01-2023,25-01-2023 00:00,Closed,No
+REQ355,CUST1192,Document Upload,Delhi,RM_E,28-01-2023,31-01-2023 00:00,Closed,No
+REQ356,CUST1017,Address Change,Hyderabad,RM_B,11-10-2023,,Open,Yes
+REQ357,CUST1120,Account Service,Hyderabad,RM_D,30-05-2023,07-06-2023 00:00,Closed,No
+REQ358,CUST1129,KYC Update,Delhi,RM_E,24-12-2023,27-12-2023 00:00,Closed,No
+REQ359,CUST1130,KYC Update,Chennai,RM_D,06-03-2023,11-03-2023 00:00,Closed,No
+REQ360,CUST1060,Document Upload,Hyderabad,RM_D,23-11-2023,,Open,No
+REQ361,CUST1048,Address Change,Bangalore,RM_B,09-09-2023,18-09-2023 00:00,Closed,No
+REQ362,CUST1029,Document Upload,Chennai,RM_C,22-02-2023,,Open,No
+REQ363,CUST1097,Address Change,Delhi,RM_E,07-01-2023,,Open,Yes
+REQ364,CUST1010,KYC Update,Chennai,RM_B,21-10-2023,27-10-2023 00:00,Closed,No
+REQ365,CUST1242,Account Service,Mumbai,RM_D,26-05-2023,,Open,No
+REQ366,CUST1232,Address Change,Mumbai,RM_B,29-08-2023,08-09-2023 00:00,Closed,Yes
+REQ367,CUST1277,KYC Update,Hyderabad,RM_C,03-09-2023,06-09-2023 00:00,Closed,No
+REQ368,CUST1284,Document Upload,Hyderabad,RM_E,14-08-2023,24-08-2023 00:00,Closed,No
+REQ369,CUST1203,Address Change,Bangalore,RM_C,24-06-2023,,Open,Yes
+REQ370,CUST1247,Account Service,Chennai,RM_A,05-04-2023,13-04-2023 00:00,Closed,No
+REQ371,CUST1290,Document Upload,Mumbai,RM_E,27-01-2023,02-02-2023 00:00,Closed,Yes
+REQ372,CUST1264,Document Upload,Hyderabad,RM_C,10-05-2023,14-05-2023 00:00,Closed,No
+REQ373,CUST1214,KYC Update,Chennai,RM_D,02-09-2023,,Open,No
+REQ374,CUST1200,Address Change,Hyderabad,RM_E,28-02-2023,08-03-2023 00:00,Closed,No
+REQ375,CUST1079,Document Upload,Hyderabad,RM_E,03-02-2023,07-02-2023 00:00,Closed,No
+REQ376,CUST1173,Account Service,Mumbai,RM_B,25-07-2023,02-08-2023 00:00,Closed,No
+REQ377,CUST1069,Address Change,Mumbai,RM_D,09-09-2023,,Open,No
+REQ378,CUST1087,Account Service,Hyderabad,RM_A,07-02-2023,17-02-2023 00:00,Closed,No
+REQ379,CUST1101,Document Upload,Delhi,RM_C,23-10-2023,,Open,No
+REQ380,CUST1008,Account Service,Hyderabad,RM_B,19-11-2023,24-11-2023 00:00,Closed,No
+REQ381,CUST1200,KYC Update,Hyderabad,RM_C,18-12-2023,,Open,Yes
+REQ382,CUST1087,Account Service,Bangalore,RM_A,28-01-2023,04-02-2023 00:00,Closed,No
+REQ383,CUST1043,Address Change,Bangalore,RM_A,19-03-2023,,Open,Yes
+REQ384,CUST1109,Account Service,Bangalore,RM_E,18-03-2023,,Open,No
+REQ385,CUST1152,Account Service,Delhi,RM_A,16-10-2023,,Open,No
+REQ386,CUST1017,KYC Update,Delhi,RM_C,05-06-2023,10-06-2023 00:00,Closed,No
+REQ387,CUST1133,Account Service,Hyderabad,RM_D,13-02-2023,21-02-2023 00:00,Closed,No
+REQ388,CUST1148,Account Service,Bangalore,RM_D,08-05-2023,,Open,No
+REQ389,CUST1277,Document Upload,Delhi,RM_E,02-03-2023,04-03-2023 00:00,Closed,Yes
+REQ390,CUST1232,Document Upload,Mumbai,RM_C,13-10-2023,,Open,No
+REQ391,CUST1228,Address Change,Hyderabad,RM_C,02-08-2023,04-08-2023 00:00,Closed,No
+REQ392,CUST1139,Document Upload,Chennai,RM_A,07-11-2023,10-11-2023 00:00,Closed,No
+REQ393,CUST1211,Document Upload,Hyderabad,RM_C,02-11-2023,11-11-2023 00:00,Closed,No
+REQ394,CUST1028,Document Upload,Chennai,RM_B,13-11-2023,20-11-2023 00:00,Closed,No
+REQ395,CUST1051,Document Upload,Bangalore,RM_A,26-04-2023,30-04-2023 00:00,Closed,No
+REQ396,CUST1261,KYC Update,Chennai,RM_B,25-09-2023,,Open,No
+REQ397,CUST1261,Document Upload,Bangalore,RM_E,14-07-2023,,Open,Yes
+REQ398,CUST1008,KYC Update,Mumbai,RM_D,19-08-2023,,Open,Yes
+REQ399,CUST1138,KYC Update,Chennai,RM_E,15-08-2023,22-08-2023 00:00,Closed,Yes
+REQ400,CUST1038,Document Upload,Hyderabad,RM_D,02-06-2023,06-06-2023 00:00,Closed,No
+REQ401,CUST1111,Account Service,Bangalore,RM_E,29-10-2023,31-10-2023 00:00,Closed,No
+REQ402,CUST1220,KYC Update,Hyderabad,RM_C,08-08-2023,09-08-2023 00:00,Closed,No
+REQ403,CUST1223,Account Service,Delhi,RM_B,06-06-2023,08-06-2023 00:00,Closed,No
+REQ404,CUST1136,Account Service,Bangalore,RM_D,19-10-2023,,Open,No
+REQ405,CUST1256,Document Upload,Chennai,RM_A,14-11-2023,17-11-2023 00:00,Closed,No
+REQ406,CUST1049,Address Change,Bangalore,RM_B,31-01-2023,05-02-2023 00:00,Closed,No
+REQ407,CUST1292,Document Upload,Hyderabad,RM_A,09-11-2023,,Open,Yes
+REQ408,CUST1078,Address Change,Mumbai,RM_B,20-02-2023,23-02-2023 00:00,Closed,No
+REQ409,CUST1105,Address Change,Bangalore,RM_B,17-04-2023,,Open,No
+REQ410,CUST1169,Document Upload,Chennai,RM_E,17-11-2023,27-11-2023 00:00,Closed,No
+REQ411,CUST1217,Document Upload,Delhi,RM_D,19-04-2023,21-04-2023 00:00,Closed,No
+REQ412,CUST1119,Address Change,Mumbai,RM_D,16-05-2023,20-05-2023 00:00,Closed,No
+REQ413,CUST1190,Document Upload,Delhi,RM_B,05-12-2023,,Open,No
+REQ414,CUST1255,Address Change,Bangalore,RM_C,11-02-2023,21-02-2023 00:00,Closed,Yes
+REQ415,CUST1266,Account Service,Hyderabad,RM_C,22-03-2023,24-03-2023 00:00,Closed,No
+REQ416,CUST1149,Document Upload,Hyderabad,RM_A,03-05-2023,,Open,No
+REQ417,CUST1164,Account Service,Chennai,RM_A,30-03-2023,01-04-2023 00:00,Closed,No
+REQ418,CUST1140,KYC Update,Hyderabad,RM_E,10-10-2023,17-10-2023 00:00,Closed,No
+REQ419,CUST1258,Account Service,Mumbai,RM_B,08-02-2023,18-02-2023 00:00,Closed,No
+REQ420,CUST1269,Account Service,Hyderabad,RM_A,22-03-2023,24-03-2023 00:00,Closed,No
+REQ421,CUST1181,Address Change,Chennai,RM_A,02-01-2023,,Open,No
+REQ422,CUST1160,Account Service,Bangalore,RM_B,29-07-2023,07-08-2023 00:00,Closed,No
+REQ423,CUST1288,Document Upload,Bangalore,RM_E,19-08-2023,28-08-2023 00:00,Closed,No
+REQ424,CUST1288,Address Change,Hyderabad,RM_A,19-12-2023,22-12-2023 00:00,Closed,No
+REQ425,CUST1226,KYC Update,Delhi,RM_E,01-11-2023,02-11-2023 00:00,Closed,No
+REQ426,CUST1011,Document Upload,Bangalore,RM_D,29-08-2023,02-09-2023 00:00,Closed,No
+REQ427,CUST1010,KYC Update,Hyderabad,RM_E,30-05-2023,02-06-2023 00:00,Closed,Yes
+REQ428,CUST1271,Account Service,Chennai,RM_C,17-01-2023,19-01-2023 00:00,Closed,No
+REQ429,CUST1273,Document Upload,Hyderabad,RM_C,29-04-2023,05-05-2023 00:00,Closed,No
+REQ430,CUST1183,Document Upload,Bangalore,RM_E,28-05-2023,06-06-2023 00:00,Closed,No
+REQ431,CUST1153,KYC Update,Chennai,RM_C,28-12-2023,06-01-2024 00:00,Closed,No
+REQ432,CUST1124,Document Upload,Hyderabad,RM_D,25-05-2023,01-06-2023 00:00,Closed,No
+REQ433,CUST1114,Document Upload,Mumbai,RM_B,26-12-2023,,Open,No
+REQ434,CUST1278,Document Upload,Chennai,RM_C,21-08-2023,28-08-2023 00:00,Closed,No
+REQ435,CUST1213,Account Service,Mumbai,RM_C,06-02-2023,,Open,Yes
+REQ436,CUST1172,KYC Update,Delhi,RM_E,18-12-2023,19-12-2023 00:00,Closed,No
+REQ437,CUST1288,Document Upload,Chennai,RM_D,30-04-2023,02-05-2023 00:00,Closed,No
+REQ438,CUST1174,Address Change,Mumbai,RM_B,16-05-2023,18-05-2023 00:00,Closed,No
+REQ439,CUST1113,Address Change,Bangalore,RM_E,17-11-2023,,Open,No
+REQ440,CUST1122,Address Change,Bangalore,RM_E,29-10-2023,,Open,No
+REQ441,CUST1032,Address Change,Delhi,RM_D,05-12-2023,06-12-2023 00:00,Closed,No
+REQ442,CUST1222,Account Service,Chennai,RM_B,12-04-2023,18-04-2023 00:00,Closed,No
+REQ443,CUST1119,Document Upload,Chennai,RM_D,06-08-2023,,Open,No
+REQ444,CUST1039,KYC Update,Chennai,RM_B,28-02-2023,08-03-2023 00:00,Closed,No
+REQ445,CUST1268,Document Upload,Delhi,RM_D,06-10-2023,,Open,No
+REQ446,CUST1233,Account Service,Chennai,RM_E,26-04-2023,29-04-2023 00:00,Closed,No
+REQ447,CUST1018,Address Change,Bangalore,RM_E,28-11-2023,,Open,No
+REQ448,CUST1149,Account Service,Mumbai,RM_A,18-03-2023,26-03-2023 00:00,Closed,No
+REQ449,CUST1149,Document Upload,Bangalore,RM_C,17-05-2023,21-05-2023 00:00,Closed,No
+REQ450,CUST1126,KYC Update,Bangalore,RM_D,14-03-2023,18-03-2023 00:00,Closed,No
+REQ451,CUST1238,Account Service,Mumbai,RM_A,06-02-2023,,Open,Yes
+REQ452,CUST1135,KYC Update,Bangalore,RM_C,31-01-2023,05-02-2023 00:00,Closed,No
+REQ453,CUST1151,Account Service,Delhi,RM_D,26-03-2023,04-04-2023 00:00,Closed,No
+REQ454,CUST1236,KYC Update,Mumbai,RM_B,07-06-2023,08-06-2023 00:00,Closed,No
+REQ455,CUST1224,KYC Update,Bangalore,RM_C,01-11-2023,,Open,No
+REQ456,CUST1203,Address Change,Hyderabad,RM_E,19-10-2023,25-10-2023 00:00,Closed,No
+REQ457,CUST1256,KYC Update,Bangalore,RM_A,28-05-2023,,Open,No
+REQ458,CUST1086,Address Change,Delhi,RM_C,13-08-2023,19-08-2023 00:00,Closed,No
+REQ459,CUST1150,Document Upload,Chennai,RM_C,05-03-2023,11-03-2023 00:00,Closed,Yes
+REQ460,CUST1235,Document Upload,Bangalore,RM_E,28-08-2023,04-09-2023 00:00,Closed,No
+REQ461,CUST1022,Address Change,Chennai,RM_D,19-12-2023,,Open,No
+REQ462,CUST1285,Address Change,Hyderabad,RM_B,05-06-2023,,Open,No
+REQ463,CUST1269,Account Service,Bangalore,RM_E,25-12-2023,28-12-2023 00:00,Closed,No
+REQ464,CUST1258,Account Service,Mumbai,RM_B,26-07-2023,03-08-2023 00:00,Closed,No
+REQ465,CUST1029,Account Service,Chennai,RM_D,20-05-2023,29-05-2023 00:00,Closed,No
+REQ466,CUST1213,Document Upload,Hyderabad,RM_C,14-09-2023,16-09-2023 00:00,Closed,No
+REQ467,CUST1283,Account Service,Mumbai,RM_B,04-10-2023,,Open,No
+REQ468,CUST1050,KYC Update,Mumbai,RM_A,10-09-2023,20-09-2023 00:00,Closed,No
+REQ469,CUST1095,KYC Update,Mumbai,RM_A,13-08-2023,,Open,No
+REQ470,CUST1088,Account Service,Mumbai,RM_E,11-02-2023,16-02-2023 00:00,Closed,No
+REQ471,CUST1044,KYC Update,Bangalore,RM_D,03-11-2023,05-11-2023 00:00,Closed,No
+REQ472,CUST1278,Document Upload,Bangalore,RM_E,21-01-2023,26-01-2023 00:00,Closed,No
+REQ473,CUST1171,KYC Update,Bangalore,RM_E,10-08-2023,20-08-2023 00:00,Closed,No
+REQ474,CUST1189,Document Upload,Hyderabad,RM_E,15-06-2023,,Open,No
+REQ475,CUST1184,Address Change,Hyderabad,RM_A,06-11-2023,14-11-2023 00:00,Closed,Yes
+REQ476,CUST1003,Address Change,Hyderabad,RM_A,09-05-2023,10-05-2023 00:00,Closed,No
+REQ477,CUST1191,Address Change,Delhi,RM_E,14-01-2023,,Open,No
+REQ478,CUST1118,Address Change,Hyderabad,RM_A,16-02-2023,,Open,No
+REQ479,CUST1019,KYC Update,Bangalore,RM_D,28-04-2023,05-05-2023 00:00,Closed,No
+REQ480,CUST1023,Account Service,Bangalore,RM_E,12-12-2023,13-12-2023 00:00,Closed,No
+REQ481,CUST1030,KYC Update,Delhi,RM_A,22-10-2023,29-10-2023 00:00,Closed,No
+REQ482,CUST1295,Document Upload,Delhi,RM_B,28-10-2023,31-10-2023 00:00,Closed,No
+REQ483,CUST1108,KYC Update,Hyderabad,RM_E,11-01-2023,,Open,No
+REQ484,CUST1281,KYC Update,Chennai,RM_E,11-12-2023,21-12-2023 00:00,Closed,No
+REQ485,CUST1128,Document Upload,Delhi,RM_D,18-05-2023,26-05-2023 00:00,Closed,Yes
+REQ486,CUST1229,Address Change,Mumbai,RM_C,23-10-2023,25-10-2023 00:00,Closed,No
+REQ487,CUST1111,Address Change,Bangalore,RM_C,21-01-2023,27-01-2023 00:00,Closed,No
+REQ488,CUST1136,Address Change,Mumbai,RM_D,31-03-2023,10-04-2023 00:00,Closed,No
+REQ489,CUST1186,Account Service,Bangalore,RM_D,29-08-2023,01-09-2023 00:00,Closed,No
+REQ490,CUST1144,Document Upload,Bangalore,RM_D,23-09-2023,29-09-2023 00:00,Closed,No
+REQ491,CUST1072,Document Upload,Delhi,RM_C,30-11-2023,02-12-2023 00:00,Closed,No
+REQ492,CUST1129,KYC Update,Delhi,RM_D,15-08-2023,24-08-2023 00:00,Closed,No
+REQ493,CUST1261,Account Service,Mumbai,RM_A,23-05-2023,29-05-2023 00:00,Closed,No
+REQ494,CUST1003,Address Change,Bangalore,RM_E,03-04-2023,07-04-2023 00:00,Closed,Yes
+REQ495,CUST1104,Account Service,Mumbai,RM_E,27-10-2023,,Open,Yes
+REQ496,CUST1224,Document Upload,Chennai,RM_B,12-08-2023,15-08-2023 00:00,Closed,No
+REQ497,CUST1010,Document Upload,Mumbai,RM_B,22-11-2023,29-11-2023 00:00,Closed,Yes
+REQ498,CUST1231,KYC Update,Hyderabad,RM_E,09-09-2023,,Open,Yes
+REQ499,CUST1219,KYC Update,Mumbai,RM_A,16-02-2023,21-02-2023 00:00,Closed,No
+REQ500,CUST1066,Document Upload,Hyderabad,RM_C,29-08-2023,,Open,No
