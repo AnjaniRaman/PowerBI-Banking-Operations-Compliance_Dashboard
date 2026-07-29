@@ -22,9 +22,42 @@ CALCULATE(
      Service_Requests[Status]="OPEN"
 )
 
+## Closed Service Request
+Closed Service Request =
+CALCULATE(
+    COUNT(Service_Requests[Request_ID]),
+    Service_Requests[Status] = "Closed"
+)
+
 ## Average TAT (Days)
 Average TAT =
 CALCULATE(
     AVERAGE(Service_Requests[TAT Days]),
     Service_Requests[Status]="Closed"
+)
+
+## SLA Breach Count
+SLA Breach Count =
+CALCULATE(
+    COUNTROWS(Service_Requests),
+    Service_Requests[SLA Breach] = "Yes"
+)
+
+## SLA Breach %
+SLA Breach % =
+DIVIDE(
+    [SLA Breach Count],
+    COUNTROWS(Service_Requests),
+    0
+)
+
+## Escalation %
+Escalation % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS(Service_Requests),
+        Service_Requests[Escalated] = "Yes"
+    ),
+    COUNTROWS(Service_Requests),
+    0
 )
