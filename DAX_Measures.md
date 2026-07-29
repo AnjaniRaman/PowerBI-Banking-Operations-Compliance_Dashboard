@@ -1,4 +1,5 @@
 ## Total Customers
+### Counts the total number of unique customers in the dataset.
 Total Customer = DISTINCTCOUNT(Customer_Master[Customer_ID])
 
 ## Completed KYC Customers
