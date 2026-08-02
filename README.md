@@ -1,68 +1,78 @@
 # Banking Operations-Compliance Dashboard
-## Project Overview
+### Project Overview
 This Power BI dashboard provides an end-to-end view of bankimg operations and regulatory compliance using a synthetic data based on Indian banking operations.
 The dasboard enables monitoring of:
-- Customer Onboarding
-- AML exposure
-- SLA adherence
-- Service request performance
-- Branch operations
-- Relationship Manager performance
+1. Customer Onboarding
+2. AML exposure
+3. SLA adherence
+4. Service request performance
+5. Branch operations
+6. Relationship Manager performance
 ## Dasboard Preview
-## Dataset
-The project consists of three datasets:
-- Customer_Master
-- KYC_Compliance
-- Service_Requests
+### Dataset
+#### The project consists of three datasets:
+1. Customer_Master
+2. KYC_Compliance
+3. Service_Requests
 
-Total Records
-- Customers:300
-- KYC Record:300
-- Service Requests:500
-## Dasboard Features
-- Customer Segmentation
-- KYC Compliance Monitoring
-- AML Exposure Analysis
-- SLA Breach Monitoring
-- Service Request Analysis
-- Branch Performance
-- Relationship Manager Performance
-- Interactive Slicers
-## Key performance Indicators
-- Total Customers
-- KYC Completion %
-- Pending KYC
-- Customer Type
-- Average TAT
-- SLA Breach %
-# Dashboard Visuals
-- KYC Compliance Status
-- Customer Segment Distribution
-- Customer Risk Profile
-- AML Exposure Across Risk Segments
-- KYC Compliance by Risk Category
-- Service Request Status Overview
-- Branch Volume
-- Average TAT by Request Type
-- RM Escalation Performance
-## Tools & Technologies
-- Microsoft Power BI
-- DAX
-- Power Query
-- CSV
-- Data Modeling
-## Data Model
+#### Total Records
+1. Customers:300
+2. KYC Record:300
+3. Service Requests:500
+### Dashboard Features
+1. Customer Segmentation
+2. KYC Compliance Monitoring
+3. AML Exposure Analysis
+4. SLA Breach Monitoring
+5. Service Request Analysis
+6. Branch Performance
+7. Relationship Manager Performance
+8. Interactive Slicers
+### Key performance Indicators
+1. Total Customers
+2. KYC Completion %
+3. Pending KYC
+4. Customer Type
+5. Average TAT
+6. SLA Breach %
+## Dashboard Visuals
+1. KYC Compliance Status
+2. Customer Segment Distribution
+3. Customer Risk Profile
+4. AML Exposure Across Risk Segments
+5. KYC Compliance by Risk Category
+6. Service Request Status Overview
+7. Branch Volume
+8. Average TAT by Request Type
+9. RM Escalation Performance
+### Tools & Technologies
+1. Microsoft Power BI
+2. DAX
+3. Power Query
+4. CSV
+5. Data Modelling
+### Data Model
 <img width="863" height="561" alt="layout" src="https://github.com/user-attachments/assets/08c63a9f-5c54-4cb4-b650-2fe82341038d" />
 
-## Key Insights
-- 74.33% customers completed KYC
-- Retail customers constitute nearly 70% of the customer base
-- High-risk customers represent approximately 18% of the portfolio
-- Bangalore branch handled the highest request volume
-- Address change requests recorded the highest average TAT
-- SLA breach rate indicates opportunities for operational improvement
-## Future Improvements
-- Live SQL datbase integration
-- Incremental refresh
-- Automated email reporting
-- Real-time KPI monitoring
+### Key Insights
+1. 74.33% customers completed KYC
+2. Retail customers constitute nearly 70% of the customer base
+3. High-risk customers represent approximately 18% of the portfolio
+4. Bangalore branch handled the highest request volume
+5. Address change requests recorded the highest average TAT
+6. SLA breach rate indicates opportunities for operational improvement
+### Future Improvements
+1. Live SQL database integration
+2. Incremental refresh
+3. Automated email reporting
+4. Real-time KPI monitoring
+
+### How to Use
+1. Clone the repository:
+```bash
+git clone https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard.git
+```
+2. Download or clone the project files to your local machine.
+3. Open **Banking Operations Dashboard.pbix** using Power BI Desktop.
+4. Explore the interactive dashboard using the available slicers to analyze KYC compliance, AML monitoring, service requests, and SLA performance.
+5. Refer to the README for details about the dataset, data model, DAX measures, and key business insights.
