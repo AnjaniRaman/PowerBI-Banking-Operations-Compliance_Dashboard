@@ -73,6 +73,17 @@ The dasboard enables monitoring of:
 git clone https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard.git
 ```
 2. Download or clone the project files to your local machine.
-3. Open **Banking Operations Dashboard.pbix** using Power BI Desktop.
+3. Open **Bank.pbix** using Power BI Desktop.
 4. Explore the interactive dashboard using the available slicers to analyze KYC compliance, AML monitoring, service requests, and SLA performance.
 5. Refer to the README for details about the dataset, data model, DAX measures, and key business insights.
+
+### Project Notes
+1. This project uses a synthetic banking dataset created for learning and portfolio purposes.
+2. The dashboard is built using Power BI with DAX measures and a relational data model.
+3. The analysis focuses on KYC compliance, AML monitoring, service request management, and SLA performance.
+4. Relationships between tables are established using the `Customer_ID` field.
+
+### Dataset Limitations
+1. This project uses synthetic data and does not contain real customer or banking information.
+2. Each customer has a single KYC record; historical KYC renewals are not included.
+3. The dashboard is intended to demonstrate Power BI data modeling, DAX calculations, and business reporting techniques.
