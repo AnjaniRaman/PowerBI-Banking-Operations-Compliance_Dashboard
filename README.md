@@ -69,9 +69,7 @@ The dasboard enables monitoring of:
 
 ### How to Use
 1. Clone the repository:
-```bash
-git clone https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard.git
-```
+[PowerBI-Banking-Operations-Compliance-Dashboard](https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard)
 2. Download or clone the project files to your local machine.
 3. Open **Bank.pbix** using Power BI Desktop.
 4. Explore the interactive dashboard using the available slicers to analyze KYC compliance, AML monitoring, service requests, and SLA performance.
