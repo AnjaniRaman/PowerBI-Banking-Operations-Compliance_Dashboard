@@ -70,7 +70,7 @@ The dasboard enables monitoring of:
 ### How to Use
 1. Clone the repository:
 ```bash
-git clone https://[github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard.git](https://github.com/AnjaniRaman/PowerBI-Banking-Operations-Compliance_Dashboard)
+git clone https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard.git
 ```
 2. Download or clone the project files to your local machine.
 3. Open **Banking Operations Dashboard.pbix** using Power BI Desktop.
