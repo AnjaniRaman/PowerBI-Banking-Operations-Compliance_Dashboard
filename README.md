@@ -70,8 +70,7 @@ The dasboard enables monitoring of:
 ### How to Use
 1. Repository
 **GitHub Repository:**  
-[PowerBI-Banking-Operations-Compliance-Dashboard](https://github.com/AnjaniRaman/Banking-Operations-Compliance-Dashboard)
-
+<https://github.com/AnjaniRaman/PowerBI-Banking-Operations-Compliance_Dashboard>
 **Clone the Repository:**
 
 ```bash
