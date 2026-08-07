@@ -52,8 +52,7 @@ The dasboard enables monitoring of:
 4. CSV
 5. Data Modelling
 ### Data Model
-<img width="863" height="561" alt="layout" src="https://github.com/user-attachments/assets/08c63a9f-5c54-4cb4-b650-2fe82341038d" />
-
+[![Banking Operations Layout](layout.png)](layout.png)
 ### Key Insights
 1. 74.33% customers completed KYC
 2. Retail customers constitute nearly 70% of the customer base
