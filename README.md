@@ -8,7 +8,10 @@ The dasboard enables monitoring of:
 4. Service request performance
 5. Branch operations
 6. Relationship Manager performance
-## Dasboard Preview
+
+### Project Objective
+This project focuses on creating a Power BI dashboard to monitor key banking operations and compliance metrics. It brings KYC, AML, service requests, SLA performance, branch activity, and RM performance into one dashboard.
+## Dashboard Preview
 ### Dataset
 #### The project consists of three datasets:
 1. Customer_Master
