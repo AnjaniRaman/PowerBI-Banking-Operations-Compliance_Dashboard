@@ -24,6 +24,9 @@ The objective is to bring these metrics together in one place so that operationa
 1. Customers:300
 2. KYC Record:300
 3. Service Requests:500
+### DAX Measures
+#### The dashboard uses DAX measures to calculate key compliance and operational KPIs.
+[View Complete DAX Measures](DAX_Measures.md)
 ### Dashboard Features
 1. Customer Segmentation
 2. KYC Compliance Monitoring
