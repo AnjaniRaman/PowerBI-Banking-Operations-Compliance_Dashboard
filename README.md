@@ -61,6 +61,7 @@ helping operational and compliance teams quickly identify areas that need attent
 
 ### Data Model
 The dashboard uses a relational data model connecting customer information with KYC compliance and service request data through `Customer_ID`.
+
 [![Banking Operations Layout](layout.png)](layout.png)
 
 ### DAX Measures
