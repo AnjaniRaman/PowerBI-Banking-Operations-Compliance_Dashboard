@@ -19,7 +19,7 @@ helping operational and compliance teams quickly identify areas that need attent
 1. `Bank.pbix` – Power BI dashboard file
 2. `Dashboard.png`- Power BI dashboard preview
 3. `layout.png` – Power BI data model
-4. 'Customer_Master.csv` – Customer master data
+4. `Customer_Master.csv` – Customer master data
 5. `KYC_Compliance.csv` – KYC and AML compliance data
 6. `Service_Requests.csv` – Service request and SLA data
 7. `DAX_Measures.md` – DAX measures used in the dashboard
