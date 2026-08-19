@@ -1,24 +1,22 @@
-# Banking Operations-Compliance Dashboard
+# Power BI Banking Operations & Compliance Dashboard
 ### Project Overview
-This Power BI dashboard provides an end-to-end view of bankimg operations and regulatory compliance using a synthetic data based on Indian banking operations.
-The dasboard enables monitoring of:
+This Power BI dashboard provides an end-to-end view of banking operations and regulatory compliance using synthetic dataset based on Indian banking operations.
+The dashboard enables monitoring of:
 1. Customer Onboarding
-2. AML exposure
-3. SLA adherence
-4. Service request performance
-5. Branch operations
-6. Relationship Manager performance
+2. KYC Compliance
+3. AML exposure
+4. SLA adherence
+5. Service request performance
+6. Branch operations
+7. Relationship Manager performance
 
 ### Project Objective
 This project focuses on creating a Power BI dashboard to monitor key banking operations and compliance metrics. 
-It brings KYC, AML, service requests, SLA performance, branch activity, and RM performance into one dashboard.
-The objective is to bring these metrics together in one place so that operational and compliance teams can quickly identify areas that need attention and make better-informed decisions.
+It brings KYC, AML, service requests, SLA performance, branch activity, and RM performance into one dashboard,
+helping operational and compliance teams quickly identify areas that need attention and make better-informed decisions.
 ## Dashboard Preview
+![Banking Operations & Compliance Dashboard](Banking operations & Compliance Dashboard.png)
 ### Dataset
-#### The project consists of three datasets:
-1. Customer_Master
-2. KYC_Compliance
-3. Service_Requests
 
 #### Total Records
 1. Customers:300
