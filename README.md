@@ -76,7 +76,7 @@ helping operational and compliance teams quickly identify areas that need attent
 **GitHub Repository:**  
 <https://github.com/AnjaniRaman/PowerBI-Banking-Operations-Compliance_Dashboard>
 
-![Banking Operations Dashboard](Dashboard.png)
+[![Banking Operations Dashboard](Dashboard.png)]
 
 3. Download or clone the project files to your local machine.
 4. Open **Bank.pbix** using Power BI Desktop.
