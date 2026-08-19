@@ -14,6 +14,16 @@ The dashboard enables monitoring of:
 This project focuses on creating a Power BI dashboard to monitor key banking operations and compliance metrics. 
 It brings KYC, AML, service requests, SLA performance, branch activity, and RM performance into one dashboard,
 helping operational and compliance teams quickly identify areas that need attention and make better-informed decisions.
+
+### Project Files
+1. `Bank.pbix` – Power BI dashboard file
+2. `Dashboard.png`- Power BI dashboard preview
+3. `layout.png` – Power BI data model
+4. 'Customer_Master.csv` – Customer master data
+5. `KYC_Compliance.csv` – KYC and AML compliance data
+6. `Service_Requests.csv` – Service request and SLA data
+7. `DAX_Measures.md` – DAX measures used in the dashboard
+
 ## Dashboard Preview
 ![Banking Operations & Compliance Dashboard](Dashboard.png)
 ### Dataset
@@ -35,7 +45,7 @@ helping operational and compliance teams quickly identify areas that need attent
 1. Total Customers
 2. KYC Completion %
 3. Pending KYC
-4. Customer Type
+4. Open Service Requests
 5. Average TAT
 6. SLA Breach %
 ## Dashboard Visuals
@@ -47,9 +57,10 @@ helping operational and compliance teams quickly identify areas that need attent
 6. Service Request Status Overview
 7. Branch Volume
 8. Average TAT by Request Type
-9. RM Escalation Performance
+9. Escalation Rate by Relationship Manager
 
 ### Data Model
+The dashboard uses a relational data model connecting customer information with KYC compliance and service request data through `Customer_ID`.
 [![Banking Operations Layout](layout.png)](layout.png)
 
 ### DAX Measures
@@ -57,31 +68,25 @@ helping operational and compliance teams quickly identify areas that need attent
 [View Complete DAX Measures](DAX_Measures.md)
 
 ### Key Insights
-1. 74.33% customers completed KYC
-2. Retail customers constitute nearly 70% of the customer base
-3. High-risk customers represent approximately 18% of the portfolio
-4. Bangalore branch handled the highest request volume
-5. Address change requests recorded the highest average TAT
-6. SLA breach rate indicates opportunities for operational improvement
+1. 74.33% of customers completed KYC.
+2. Retail customers constitute nearly 70% of the customer base.
+3. High-risk customers represent approximately 18% of the customer portfolio
+4. Bangalore branch handled the highest request volume of service requests.
+5. Address change requests recorded the highest average TAT.
+6. SLA breach levels indicate opportunities to improve service request turnaround and operational efficiency.
 
 ### Tools & Technologies
 1. Microsoft Power BI
 2. DAX
 3. Power Query
 4. CSV
-5. Data Modelling
+5. Data Modeling
 
 ### How to Use
-1. Repository
-**GitHub Repository:**  
-<https://github.com/AnjaniRaman/PowerBI-Banking-Operations-Compliance_Dashboard>
-
-[![Banking Operations Dashboard](Dashboard.png)]
-
-3. Download or clone the project files to your local machine.
-4. Open **Bank.pbix** using Power BI Desktop.
-5. Explore the interactive dashboard using the available slicers to analyze KYC compliance, AML monitoring, service requests, and SLA performance.
-6. Refer to the README for details about the dataset, data model, DAX measures, and key business insights.
+1. Download or clone the project files to your local machine.
+2. Open **Bank.pbix** using Power BI Desktop.
+3. Explore the interactive dashboard using the available slicers to analyze KYC compliance, AML monitoring, service requests, and SLA performance.
+4. Refer to the README for details about the dataset, data model, DAX measures, and key business insights.
 
 ### Project Notes
 1. This project uses a synthetic banking dataset created for learning and portfolio purposes.
@@ -97,8 +102,6 @@ helping operational and compliance teams quickly identify areas that need attent
 1. Add dynamic tooltips to provide additional context without overcrowding the dashboard.
 2. Enhance KPI cards with conditional formatting and visual indicators to highlight areas requiring attention.
 3. Add more interactive filters to allow users to explore performance by branch, customer type, risk category, and relationship manager.
-
-
 
 ### Dataset Limitations
 1. This project uses synthetic data and does not contain real customer or banking information.
