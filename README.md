@@ -15,7 +15,7 @@ This project focuses on creating a Power BI dashboard to monitor key banking ope
 It brings KYC, AML, service requests, SLA performance, branch activity, and RM performance into one dashboard,
 helping operational and compliance teams quickly identify areas that need attention and make better-informed decisions.
 ## Dashboard Preview
-{![Banking Operations & Compliance Dashboard](Banking operations & Compliance Dashboard.png)](Banking operations & Compliance Dashboard.png)
+![Banking Operations & Compliance Dashboard](Dashboard.png)
 ### Dataset
 
 #### Total Records
@@ -76,7 +76,7 @@ helping operational and compliance teams quickly identify areas that need attent
 **GitHub Repository:**  
 <https://github.com/AnjaniRaman/PowerBI-Banking-Operations-Compliance_Dashboard>
 
-[![Banking Operations Dashboard][Banking operations & Compliance Dashboard.png]
+![Banking Operations Dashboard](Dashboard.png)
 
 3. Download or clone the project files to your local machine.
 4. Open **Bank.pbix** using Power BI Desktop.
