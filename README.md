@@ -98,7 +98,7 @@ The dashboard uses a relational data model connecting customer information with 
 ### Dataset Limitations
 1. This project uses synthetic data and does not contain real customer or banking information.
 2. Each customer has a single KYC record; historical KYC renewals are not included.
-3. what The dashboard is designed for demonstration and learning purposes and does not represent a production banking reporting environment.
+3. The dashboard is designed for demonstration and learning purposes and does not represent a production banking reporting environment.
 ### Future Improvements
 1. Add dynamic tooltips to provide additional context without overcrowding the dashboard.
 2. Enhance KPI cards with conditional formatting and visual indicators to highlight areas requiring attention.
