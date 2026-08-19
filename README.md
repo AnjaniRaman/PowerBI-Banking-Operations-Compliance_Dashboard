@@ -24,9 +24,6 @@ The objective is to bring these metrics together in one place so that operationa
 1. Customers:300
 2. KYC Record:300
 3. Service Requests:500
-### DAX Measures
-#### The dashboard uses DAX measures to calculate key compliance and operational KPIs.
-[View Complete DAX Measures](DAX_Measures.md)
 ### Dashboard Features
 1. Customer Segmentation
 2. KYC Compliance Monitoring
@@ -53,14 +50,14 @@ The objective is to bring these metrics together in one place so that operationa
 7. Branch Volume
 8. Average TAT by Request Type
 9. RM Escalation Performance
-### Tools & Technologies
-1. Microsoft Power BI
-2. DAX
-3. Power Query
-4. CSV
-5. Data Modelling
+
 ### Data Model
 [![Banking Operations Layout](layout.png)](layout.png)
+
+### DAX Measures
+#### The dashboard uses DAX measures to calculate key compliance and operational KPIs.
+[View Complete DAX Measures](DAX_Measures.md)
+
 ### Key Insights
 1. 74.33% customers completed KYC
 2. Retail customers constitute nearly 70% of the customer base
@@ -68,11 +65,13 @@ The objective is to bring these metrics together in one place so that operationa
 4. Bangalore branch handled the highest request volume
 5. Address change requests recorded the highest average TAT
 6. SLA breach rate indicates opportunities for operational improvement
-### Future Improvements
-1. Live SQL database integration
-2. Incremental refresh
-3. Automated email reporting
-4. Real-time KPI monitoring
+
+### Tools & Technologies
+1. Microsoft Power BI
+2. DAX
+3. Power Query
+4. CSV
+5. Data Modelling
 
 ### How to Use
 1. Repository
@@ -91,6 +90,17 @@ The objective is to bring these metrics together in one place so that operationa
 2. The dashboard is built using Power BI with DAX measures and a relational data model.
 3. The analysis focuses on KYC compliance, AML monitoring, service request management, and SLA performance.
 4. Relationships between tables are established using the `Customer_ID` field.
+
+### Dataset Limitations
+1. This project uses synthetic data and does not contain real customer or banking information.
+2. Each customer has a single KYC record; historical KYC renewals are not included.
+3. what The dashboard is designed for demonstration and learning purposes and does not represent a production banking reporting environment.
+### Future Improvements
+1. Add dynamic tooltips to provide additional context without overcrowding the dashboard.
+2. Enhance KPI cards with conditional formatting and visual indicators to highlight areas requiring attention.
+3. Add more interactive filters to allow users to explore performance by branch, customer type, risk category, and relationship manager.
+
+
 
 ### Dataset Limitations
 1. This project uses synthetic data and does not contain real customer or banking information.
